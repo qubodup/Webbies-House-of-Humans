@@ -6,11 +6,14 @@ using UnityStandardAssets.Characters.ThirdPerson;
 
 public class HumanAI : MonoBehaviour
 {
-    // waypoint array
-    public GameObject[] targets;
     // drag human scripts here...
     public GameObject[] humans;
-    
+
+    // waypoint parents
+    public GameObject waypointParent;
+    // waypoint array
+    private Transform[] waypoints;
+
     // how close do I have to be to target to reach it?
     public float waypointDistance = 2f;
     private bool targetIsPlayer = false;
@@ -18,7 +21,10 @@ public class HumanAI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        foreach(GameObject human in humans)
+        // set up waypoints
+        waypoints = waypointParent.transform.GetComponentsInChildren<Transform>();
+
+        foreach (GameObject human in humans)
         {
             SetRandomTarget(human.GetComponent<AICharacterControl>());
         }
@@ -46,7 +52,7 @@ public class HumanAI : MonoBehaviour
 
     void SetRandomTarget(AICharacterControl aiScript)
     {
-        aiScript.target = targets[Random.Range(0, targets.Length - 1)].transform;
+        aiScript.target = waypoints[Random.Range(0, waypoints.Length)].transform;
     }
 
 }

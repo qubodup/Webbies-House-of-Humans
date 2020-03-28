@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GUI_Controller : MonoBehaviour
 {
@@ -23,9 +24,22 @@ public class GUI_Controller : MonoBehaviour
         WebPosition.localPosition = new Vector3(WebPosition.localPosition.x, -755 + ( (755 + 150) * barTreshold), 0);
     }
 
+    private void Update()
+    {
+        if (HouseFill.fillAmount>0.9f)
+        {
+
+            SceneManager.LoadScene(2);
+        }
+    }
+
     public void SetCompletionValue(float value)
     {
         HouseFill.fillAmount = value;
+    }
+    public void IncreaseCompletionValue(float value)
+    {
+        HouseFill.fillAmount += value;
     }
 
     //public void Update()

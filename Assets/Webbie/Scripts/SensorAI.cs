@@ -6,6 +6,10 @@ using UnityStandardAssets.Characters.ThirdPerson;
 
 public class SensorAI : MonoBehaviour
 {
+
+    public float speedWalk = .3f;
+    public float speedRun = .5f;
+
     private bool sensePlayer = false;
     private bool seePlayer = false;
     private float seeTimer = 0f;
@@ -80,7 +84,7 @@ public class SensorAI : MonoBehaviour
                 {
                     SetPlayerTarget(human.GetComponent<AICharacterControl>());
                     seeTimer = seeTimerLimit;
-                    human.GetComponent<NavMeshAgent>().speed = .7f;
+                    human.GetComponent<NavMeshAgent>().speed = speedRun;
                 }
                 Debug.Log("seePlayer " + seePlayer);
             }
@@ -91,10 +95,10 @@ public class SensorAI : MonoBehaviour
         } else
         {
             seePlayer = false;
-            human.GetComponent<NavMeshAgent>().speed = .4f;
+            human.GetComponent<NavMeshAgent>().speed = speedWalk;
         }
         //Debug.Log("seeplayer: " + seePlayer +" dist: " + Vector3.Distance(human.transform.position, player.transform.position));
-        if (seePlayer && Vector3.Distance(human.transform.position,player.transform.position) < 0.7f)
+        if (seePlayer && Vector3.Distance(human.transform.position,player.transform.position) < 1.5f)
         {
             gameManager.GetComponent<SpiderGameManager>().GameOver();
         }

@@ -221,7 +221,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: dc7588365432107429341a2a6e363235, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b0841bb1bd418844882a38545b4e93d3, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -458,11 +458,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'OH NO! THE HUMAN BIT ME!
+  m_Text: 'THE HOUSE IS MINE!
 
-    Now I will mutate into a
-
-    webflix-watching lazybone...'
+    HUZZAH!'
 --- !u!222 &1135830187
 CanvasRenderer:
   m_ObjectHideFlags: 0

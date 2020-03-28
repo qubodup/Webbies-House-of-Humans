@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5c36eaef651359d4080867eb5d3e989c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Butt
+    100006: Butt_end
+    100008: Head
+    100010: LegLA0
+    100012: LegLA1
+    100014: LegLA2
+    100016: LegLA3
+    100018: LegLA3_end
+    100020: LegLB0
+    100022: LegLB1
+    100024: LegLB2
+    100026: LegLB3
+    100028: LegLB3_end
+    100030: LegLC0
+    100032: LegLC1
+    100034: LegLC2
+    100036: LegLC3
+    100038: LegLC3_end
+    100040: LegLD0
+    100042: LegLD1
+    100044: LegLD2
+    100046: LegLD3
+    100048: LegLD3_end
+    100050: LegRA0
+    100052: LegRA1
+    100054: LegRA2
+    100056: LegRA3
+    100058: LegRA3_end
+    100060: LegRB0
+    100062: LegRB1
+    100064: LegRB2
+    100066: LegRB3
+    100068: LegRB3_end
+    100070: LegRC0
+    100072: LegRC1
+    100074: LegRC2
+    100076: LegRC3
+    100078: LegRC3_end
+    100080: LegRD0
+    100082: LegRD1
+    100084: LegRD2
+    100086: LegRD3
+    100088: LegRD3_end
+    100090: Legs
+    100092: MandibleL0
+    100094: MandibleL1
+    100096: MandibleL2
+    100098: MandibleL2_end
+    100100: MandibleR0
+    100102: MandibleR1
+    100104: MandibleR2
+    100106: MandibleR2_end
+    100108: Root
+    100110: //RootNode
+    100112: Spine
+    400000: Armature
+    400002: Body
+    400004: Butt
+    400006: Butt_end
+    400008: Head
+    400010: LegLA0
+    400012: LegLA1
+    400014: LegLA2
+    400016: LegLA3
+    400018: LegLA3_end
+    400020: LegLB0
+    400022: LegLB1
+    400024: LegLB2
+    400026: LegLB3
+    400028: LegLB3_end
+    400030: LegLC0
+    400032: LegLC1
+    400034: LegLC2
+    400036: LegLC3
+    400038: LegLC3_end
+    400040: LegLD0
+    400042: LegLD1
+    400044: LegLD2
+    400046: LegLD3
+    400048: LegLD3_end
+    400050: LegRA0
+    400052: LegRA1
+    400054: LegRA2
+    400056: LegRA3
+    400058: LegRA3_end
+    400060: LegRB0
+    400062: LegRB1
+    400064: LegRB2
+    400066: LegRB3
+    400068: LegRB3_end
+    400070: LegRC0
+    400072: LegRC1
+    400074: LegRC2
+    400076: LegRC3
+    400078: LegRC3_end
+    400080: LegRD0
+    400082: LegRD1
+    400084: LegRD2
+    400086: LegRD3
+    400088: LegRD3_end
+    400090: Legs
+    400092: MandibleL0
+    400094: MandibleL1
+    400096: MandibleL2
+    400098: MandibleL2_end
+    400100: MandibleR0
+    400102: MandibleR1
+    400104: MandibleR2
+    400106: MandibleR2_end
+    400108: Root
+    400110: //RootNode
+    400112: Spine
+    2100000: No Name
+    2100002: SpiderBody1
+    2100004: SpiderLegs1
+    4300000: Body
+    4300002: Legs
+    9500000: //RootNode
+    13700000: Body
+    13700002: Legs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

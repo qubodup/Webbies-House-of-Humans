@@ -517,7 +517,9 @@ MonoBehaviour:
   HouseFill: {fileID: 6852555096843421421}
   BarFill: {fileID: 6852555095419785974}
   WebColor: {fileID: 6852555095493464871}
+  WebPosition: {fileID: 6852555095805016891}
   myAnimator: {fileID: 0}
+  barTreshold: 5
 --- !u!95 &452406052
 Animator:
   serializedVersion: 3

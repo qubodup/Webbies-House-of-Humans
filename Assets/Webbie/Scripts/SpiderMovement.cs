@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class SpiderMovement : MonoBehaviour
 {
-	public float moveSpeed = 3.0f;
+	public float walkSpeed = 2.0f;
+	public float runningSpeed = 4.0f;
 	public float turnSpeed = 50.0f;
 	public float interactDuration = 1.0f;
 	private float interactStartTime = -1.0f;
@@ -28,6 +29,13 @@ public class SpiderMovement : MonoBehaviour
 			float x = Input.GetAxis("Horizontal");
 			float y = Input.GetAxis("Vertical");
 			forward = y;
+
+			float moveSpeed = walkSpeed;
+			if (Input.GetKey(KeyCode.LeftShift))
+			{
+				forward *= 2;
+				moveSpeed = runningSpeed;
+			}
 
 			float turnRate = turnSpeed * Time.deltaTime * x * Mathf.Sign(y);
 			float moveRate = moveSpeed * y;

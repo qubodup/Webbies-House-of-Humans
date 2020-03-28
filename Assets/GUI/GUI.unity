@@ -3883,31 +3883,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 395625714}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &452406051 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6852555096268178785, guid: b92d531834b220f40b8a42e42ab7cfbd,
-    type: 3}
-  m_PrefabInstance: {fileID: 6852555095887621698}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &452406052
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 452406051}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ce5c7f286de1dca46a1d20dcadfe2452, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &580881407
 GameObject:
   m_ObjectHideFlags: 0
@@ -6439,31 +6414,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6852555095419785974, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.7425976
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555095493464865, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555095842758995, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555095842758995, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555095842758995, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6852555096268178785, guid: b92d531834b220f40b8a42e42ab7cfbd,
         type: 3}
       propertyPath: m_Name
@@ -6572,16 +6522,6 @@ PrefabInstance:
     - target: {fileID: 6852555096268178789, guid: b92d531834b220f40b8a42e42ab7cfbd,
         type: 3}
       propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555096547506655, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6852555096547506655, guid: b92d531834b220f40b8a42e42ab7cfbd,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

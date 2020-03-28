@@ -126,7 +126,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6852555095493464870
 RectTransform:
   m_ObjectHideFlags: 0
@@ -413,6 +413,7 @@ GameObject:
   - component: {fileID: 6852555096268178791}
   - component: {fileID: 6852555096268178790}
   - component: {fileID: 6852555096268178794}
+  - component: {fileID: 452406052}
   m_Layer: 5
   m_Name: GUI
   m_TagString: Untagged
@@ -516,6 +517,26 @@ MonoBehaviour:
   HouseFill: {fileID: 6852555096843421421}
   BarFill: {fileID: 6852555095419785974}
   WebColor: {fileID: 6852555095493464871}
+  myAnimator: {fileID: 0}
+--- !u!95 &452406052
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6852555096268178785}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ce5c7f286de1dca46a1d20dcadfe2452, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6852555096494224577
 GameObject:
   m_ObjectHideFlags: 0

@@ -6,9 +6,13 @@ public class SpiderMovement : MonoBehaviour
 {
 	public float moveSpeed = 3.0f;
 	public float turnSpeed = 50.0f;
+	public float interactDuration = 1.0f;
+	private float interactStartTime = -1.0f;
 
 	private CharacterController ctrl = null;
 	private Animator anim = null;
+
+	public bool IsInteracting => Time.time < interactStartTime + interactDuration;
 
     void Start()
     {
@@ -18,17 +22,28 @@ public class SpiderMovement : MonoBehaviour
 
     void Update()
     {
-		float x = Input.GetAxis("Horizontal");
-		float y = Input.GetAxis("Vertical");
+		float forward = 0.0f;
+		if (!IsInteracting)
+		{
+			float x = Input.GetAxis("Horizontal");
+			float y = Input.GetAxis("Vertical");
+			forward = y;
 
-		float turnRate = turnSpeed * Time.deltaTime * x * Mathf.Sign(y);
-		float moveRate = moveSpeed * y;
-		transform.Rotate(0, turnRate, 0);
+			float turnRate = turnSpeed * Time.deltaTime * x * Mathf.Sign(y);
+			float moveRate = moveSpeed * y;
+			transform.Rotate(0, turnRate, 0);
 
-		Vector3 moveDir = transform.forward;
-		Vector3 movement = moveDir * moveRate;
-		ctrl.SimpleMove(movement);
+			Vector3 moveDir = transform.forward;
+			Vector3 movement = moveDir * moveRate;
+			ctrl.SimpleMove(movement);
 
-		anim.SetFloat("Forward", y);
+			if (Input.GetKeyDown(KeyCode.E))
+			{
+				anim.SetTrigger("Interact");
+				interactStartTime = Time.time;
+			}
+		}
+
+		anim.SetFloat("Forward", forward);
 	}
 }

@@ -62,11 +62,11 @@ public class SensorAI : MonoBehaviour
         if (sensePlayer)
         {
             hits = Physics.RaycastAll(
-                human.transform.position + Vector3.up,
+                human.transform.position + Vector3.up*.3f,
                 player.transform.position - human.transform.position,
                 Vector3.Distance(human.transform.position, player.transform.position)
                 );
-            Debug.DrawRay(human.transform.position + Vector3.up, player.transform.position - human.transform.position);
+            Debug.DrawRay(human.transform.position + Vector3.up * .3f, player.transform.position - human.transform.position);
 
             foreach ( RaycastHit hit in hits)
             {
@@ -93,7 +93,7 @@ public class SensorAI : MonoBehaviour
             seePlayer = false;
             human.GetComponent<NavMeshAgent>().speed = .4f;
         }
-        Debug.Log("seeplayer: " + seePlayer +" dist: " + Vector3.Distance(human.transform.position, player.transform.position));
+        //Debug.Log("seeplayer: " + seePlayer +" dist: " + Vector3.Distance(human.transform.position, player.transform.position));
         if (seePlayer && Vector3.Distance(human.transform.position,player.transform.position) < 0.7f)
         {
             gameManager.GetComponent<SpiderGameManager>().GameOver();

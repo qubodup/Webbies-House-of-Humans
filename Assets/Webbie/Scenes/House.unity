@@ -650,7 +650,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfdf9ac1d20240d41b929eb5d25e8a91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  humans: []
+  humans:
+  - {fileID: 2132077420}
   waypointParent: {fileID: 2036957460}
   waypointDistance: 2
 --- !u!1001 &365001754
@@ -666,15 +667,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 436670, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.313717
+      value: -12.097
       objectReference: {fileID: 0}
     - target: {fileID: 436670, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.125
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 436670, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 16.803967
+      value: 17.09
       objectReference: {fileID: 0}
     - target: {fileID: 436670, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
       propertyPath: m_LocalRotation.x
@@ -707,6 +708,10 @@ PrefabInstance:
     - target: {fileID: 436670, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11402594, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
+      propertyPath: target
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 888944f0cc4e88f419756c4352c1a42c, type: 3}
@@ -3319,6 +3324,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2132077420 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 113348, guid: 888944f0cc4e88f419756c4352c1a42c,
+    type: 3}
+  m_PrefabInstance: {fileID: 365001754}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2135664009
 GameObject:
   m_ObjectHideFlags: 0

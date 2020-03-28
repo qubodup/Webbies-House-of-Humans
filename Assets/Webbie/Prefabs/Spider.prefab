@@ -65,6 +65,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 2
   turnSpeed: 50
+  interactDuration: 1.8
 --- !u!1001 &2782674716664724092
 PrefabInstance:
   m_ObjectHideFlags: 0

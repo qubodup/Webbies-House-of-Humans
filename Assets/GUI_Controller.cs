@@ -17,16 +17,13 @@ public class GUI_Controller : MonoBehaviour
         myAnimator = GetComponent<Animator>();
         HouseFill.fillAmount = 0;
         BarFill.fillAmount = 1;
-        WebColor.enabled = false;
+        WebColor.gameObject.SetActive(false);
     }
-
 
     public void SetCompletionValue(float value)
     {
         HouseFill.fillAmount = value;
     }
-
-
 
     public void SetEnergyValue(float value)
     {
@@ -35,16 +32,12 @@ public class GUI_Controller : MonoBehaviour
 
     public void EnableDisableWeb(bool value)
     {
-        WebColor.enabled = value;
+        WebColor.gameObject.SetActive(value);
     }
 
     public void NegativeFeedback()
     {
-
-        if (Input.GetMouseButtonDown(1))
-        {
-            myAnimator.SetTrigger("TryWeb");
-        }
+        myAnimator.SetTrigger("TryWeb");
     }
         
 }

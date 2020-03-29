@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Webbie/Scenes/Intro.unity
+    guid: 098059f21a6bac548bc867adcc126e6d
+  - enabled: 1
     path: Assets/Webbie/Scenes/House.unity
     guid: 5f1c59faf3c7edf429945e4adb37d387
   - enabled: 1

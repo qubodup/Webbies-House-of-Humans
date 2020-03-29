@@ -1,24 +1,47 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class SpiderGameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject[] DeactivateOnWin;
+    public GameObject[] ActivateOnWin;
+    public GameObject[] ActivateOnLose;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public bool debug = true;
 
+    public void Update()
+    {
+        if (debug && Input.GetKeyDown(KeyCode.F12))
+        {
+            GameWin();
+        }
+        if (debug && Input.GetKeyDown(KeyCode.F11))
+        {
+            GameOver();
+        }
+    }
     public void GameOver()
     {
-        SceneManager.LoadScene(1);
+        foreach (GameObject obj in DeactivateOnWin)
+        {
+            obj.SetActive(false);
+        }
+        foreach (GameObject obj in ActivateOnLose)
+        {
+            obj.SetActive(true);
+        }
+    }
+
+    public void GameWin()
+    {
+        foreach (GameObject obj in DeactivateOnWin)
+        {
+            obj.SetActive(false);
+        }
+        foreach (GameObject obj in ActivateOnWin)
+        {
+            obj.SetActive(true);
+        }
     }
 }

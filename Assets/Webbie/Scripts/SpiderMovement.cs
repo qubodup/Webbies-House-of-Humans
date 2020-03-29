@@ -13,12 +13,15 @@ public class SpiderMovement : MonoBehaviour
 	private CharacterController ctrl = null;
 	private Animator anim = null;
 
+	private SpiderAct spiderAct;
+
 	public bool IsInteracting => Time.time < interactStartTime + interactDuration;
 
     void Start()
     {
 		ctrl = GetComponent<CharacterController>();
 		anim = GetComponentInChildren<Animator>();
+		spiderAct = GetComponent<SpiderAct>();
 	}
 
     void Update()
@@ -36,22 +39,25 @@ public class SpiderMovement : MonoBehaviour
 				forward *= 2;
 				moveSpeed = runningSpeed;
 			}
+			// tell that spider is running for energy consumption
+			spiderAct.running = moveSpeed == runningSpeed;
 
 			float turnRate = turnSpeed * Time.deltaTime * x * Mathf.Sign(y);
-			float moveRate = moveSpeed * y;
+			float moveRate = moveSpeed * y * (Time.deltaTime * 60);
 			transform.Rotate(0, turnRate, 0);
 
 			Vector3 moveDir = transform.forward;
 			Vector3 movement = moveDir * moveRate;
 			ctrl.SimpleMove(movement);
 
-			if (Input.GetKeyDown(KeyCode.E))
-			{
-				anim.SetTrigger("Interact");
-				interactStartTime = Time.time;
-			}
 		}
 
 		anim.SetFloat("Forward", forward);
+	}
+
+	public void AnimNet()
+	{
+			anim.SetTrigger("Interact");
+			interactStartTime = Time.time;
 	}
 }

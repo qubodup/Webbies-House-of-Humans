@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class GUI_Controller : MonoBehaviour
 {
@@ -12,7 +11,7 @@ public class GUI_Controller : MonoBehaviour
     public Transform WebPosition;
     public Animator myAnimator;
     public float barTreshold = 5f;
-
+    public SpiderGameManager gameManager;
 
     // Start is called before the first frame update
     void Start()
@@ -26,10 +25,10 @@ public class GUI_Controller : MonoBehaviour
 
     private void Update()
     {
-        if (HouseFill.fillAmount>0.9f)
+        if (HouseFill.fillAmount>0.99f)
         {
 
-            SceneManager.LoadScene(2);
+            gameManager.GameWin();
         }
     }
 
@@ -42,11 +41,7 @@ public class GUI_Controller : MonoBehaviour
         HouseFill.fillAmount += value;
     }
 
-    //public void Update()
-    //{
-    //    SetEnergyValue(BarFill.fillAmount - 0.001f);
-    //}
-
+    // 0 to 1
     public void SetEnergyValue(float value)
     {
         BarFill.fillAmount = value;

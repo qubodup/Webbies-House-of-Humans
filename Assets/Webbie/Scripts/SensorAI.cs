@@ -7,13 +7,23 @@ using UnityStandardAssets.Characters.ThirdPerson;
 public class SensorAI : MonoBehaviour
 {
 
+    private AudioSource source;
+    public AudioClip sndSpot;
+    public AudioClip sndWarn;
+    public AudioClip sndGiveup;
+    private float spotTimer = 0;
+    private float spotTimerLimit = 1;
+
     public float speedWalk = .3f;
     public float speedRun = .5f;
 
     private bool sensePlayer = false;
     private bool seePlayer = false;
+    private bool seenPlayer = false;
     private float seeTimer = 0f;
     public float seeTimerLimit = 5f;
+    private bool timerRunning = false;
+    private bool warned = false;
     public float sightDistance = 5f;
     public GameObject player;
 
@@ -37,12 +47,15 @@ public class SensorAI : MonoBehaviour
     void Start()
     {
         human = this.transform.parent.gameObject;
+        human.GetComponent<NavMeshAgent>().speed = speedWalk;
+
+        source = human.GetComponent<AudioSource>();
 
         // set up waypoints
         waypoints = waypointParent.transform.GetComponentsInChildren<Transform>();
 
         // get random waypoint target
-        SetRandomTarget(human.GetComponent<AICharacterControl>());
+        SetRandomTarget();
     }
 
     // Update is called once per frame
@@ -59,9 +72,8 @@ public class SensorAI : MonoBehaviour
             )
         {
             // get new target
-            SetRandomTarget(human.GetComponent<AICharacterControl>());
+            SetRandomTarget();
         }
-
         // player hunt
         if (sensePlayer)
         {
@@ -75,6 +87,7 @@ public class SensorAI : MonoBehaviour
             foreach ( RaycastHit hit in hits)
             {
                 Debug.Log(hit.collider.gameObject.name);
+                seenPlayer = seePlayer;
                 seePlayer = true;
                 if (!(hit.collider.gameObject == human) && !(hit.collider.gameObject == player))
                 {
@@ -82,22 +95,41 @@ public class SensorAI : MonoBehaviour
                 }
                 if (seePlayer)
                 {
-                    SetPlayerTarget(human.GetComponent<AICharacterControl>());
                     seeTimer = seeTimerLimit;
-                    human.GetComponent<NavMeshAgent>().speed = speedRun;
+                    timerRunning = true;
+                    warned = false;
+                    if (!seenPlayer && spotTimer <= 0)
+                    {
+                        human.GetComponent<NavMeshAgent>().speed = speedRun;
+                        SetPlayerTarget(human.GetComponent<AICharacterControl>());
+                        source.PlayOneShot(sndSpot);
+                        spotTimer = spotTimerLimit;
+                    }
                 }
-                Debug.Log("seePlayer " + seePlayer);
             }
         }
+        // follow countdown
         if (seeTimer > 0)
         {
             seeTimer -= Time.deltaTime;
-        } else
+            spotTimer -= Time.deltaTime;
+            // warn sounds (indicator of enemy losing track)
+            if (seeTimer < seeTimerLimit/2 && !warned)
+            {
+                source.PlayOneShot(sndWarn);
+                warned = true;
+            }
+        // timer ran out
+        } else if (timerRunning)
         {
+            timerRunning = false;
             seePlayer = false;
+            sensePlayer = false;
             human.GetComponent<NavMeshAgent>().speed = speedWalk;
+            SetRandomTarget();
+            source.PlayOneShot(sndGiveup);
         }
-        //Debug.Log("seeplayer: " + seePlayer +" dist: " + Vector3.Distance(human.transform.position, player.transform.position));
+        // Game Over check
         if (seePlayer && Vector3.Distance(human.transform.position,player.transform.position) < 1.5f)
         {
             gameManager.GetComponent<SpiderGameManager>().GameOver();
@@ -119,9 +151,9 @@ public class SensorAI : MonoBehaviour
             sensePlayer = false;
         }
     }
-    void SetRandomTarget(AICharacterControl aiScript)
+    void SetRandomTarget()
     {
-        aiScript.target = waypoints[Random.Range(0, waypoints.Length)].transform;
+        human.GetComponent<AICharacterControl>().target = waypoints[Random.Range(0, waypoints.Length)].transform;
     }
     void SetPlayerTarget(AICharacterControl aiScript)
     {

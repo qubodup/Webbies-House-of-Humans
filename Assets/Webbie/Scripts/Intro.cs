@@ -69,8 +69,12 @@ public class Intro : MonoBehaviour
         source.PlayOneShot(sndCutlery,.5f);
         while (faderCG.alpha > 0)
         {
-            faderCG.alpha -= Time.deltaTime / 3;
-            if (faderCG.alpha < 0) { faderCG.alpha = 0; }
+            if (faderCG.alpha - (Time.deltaTime / 3) < 0) { faderCG.alpha = 0; }
+            else
+            {
+                faderCG.alpha -= Time.deltaTime / 3;
+            }
+
             yield return null;
         }
         StartCoroutine(Face1());
@@ -82,8 +86,10 @@ public class Intro : MonoBehaviour
         camMR.gameObject.SetActive(false);
         while (faderCG.alpha < 1)
         {
-            faderCG.alpha += Time.deltaTime / 1;
-            if (faderCG.alpha > 1) { faderCG.alpha = 1; }
+            if (faderCG.alpha + Time.deltaTime >= 1) { faderCG.alpha = 1; } else
+            {
+                faderCG.alpha += Time.deltaTime;
+            }
             yield return null;
         }
         SceneManager.LoadScene(1);

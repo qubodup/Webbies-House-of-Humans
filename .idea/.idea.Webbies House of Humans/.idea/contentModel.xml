@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\USERNAME\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\USERNAME\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Webbies House of Humans.775793527.00" t="ExcludeRecursive" />
+    <e p="H:\UnityProjects\Webbies House of Humans" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BreadcrumbAi" t="Include">
+          <e p="Ai" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AiEditor.cs" t="Include" />
+              <e p="BreadcrumbEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AiManager.cs" t="Include" />
+              <e p="Extras" t="Include">
+                <e p="BA_BasicFPS.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Materials" t="Include">
+                <e p="DoubleSided.shader" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="DemoCameraControls.cs" t="Include" />
+                <e p="DemoDestroyExplosion.cs" t="Include" />
+                <e p="DemoDestroyObject.cs" t="Include" />
+                <e p="DemoEnemyControls.cs" t="Include" />
+                <e p="DemoGameOver.cs" t="Include" />
+                <e p="DemoGrenadeExplode.cs" t="Include" />
+                <e p="DemoLightingControls.cs" t="Include" />
+                <e p="DemoPickUpHealth.cs" t="Include" />
+                <e p="DemoPlayerControls.cs" t="Include" />
+                <e p="DemoRemovePhysics.cs" t="Include" />
+                <e p="DemoScore.cs" t="Include" />
+                <e p="DemoSpawnerControl.cs" t="Include" />
+                <e p="DemoTidyBullets.cs" t="Include" />
+                <e p="DemoTidySpit.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="GUI_Controller.cs" t="Include" />
+        <e p="Interior Asset" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+          <e p="Source" t="Include">
+            <e p="InteriorPlant" t="Include">
+              <e p="Cactus" t="Include">
+                <e p="Flower" t="Include">
+                  <e p="Materials" t="Include">
+                    <e p="Double Sided Transparent Diffuse Bump Cutout.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Grass" t="Include">
+                <e p="Materials" t="Include">
+                  <e p="Double Sided Transparent Diffuse Bump Cutout.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Nice Materials Pack 2" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Carpet.shader" t="Include" />
+            <e p="Cloth.shader" t="Include" />
+            <e p="Concrete Wall.shader" t="Include" />
+            <e p="Lino.shader" t="Include" />
+            <e p="PaintedWall.shader" t="Include" />
+            <e p="Processed Leather.shader" t="Include" />
+            <e p="ScratchedWood.shader" t="Include" />
+            <e p="Stained Leather.shader" t="Include" />
+            <e p="Stone Tile.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Cameras" t="Include">
+            <e p="CameraGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AbstractTargetFollower.cs" t="Include" />
+              <e p="AutoCam.cs" t="Include" />
+              <e p="FreeLookCam.cs" t="Include" />
+              <e p="HandHeldCam.cs" t="Include" />
+              <e p="LookatTarget.cs" t="Include" />
+              <e p="PivotBasedCameraRig.cs" t="Include" />
+              <e p="ProtectCameraFromWallClip.cs" t="Include" />
+              <e p="TargetFieldOfView.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Characters" t="Include">
+            <e p="ThirdPersonCharacter" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AICharacterControl.cs" t="Include" />
+                <e p="ThirdPersonCharacter.cs" t="Include" />
+                <e p="ThirdPersonUserControl.cs" t="Include" />
+              </e>
+              <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
+            </e>
+          </e>
+          <e p="CrossPlatformInput" t="Include">
+            <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AxisTouchButton.cs" t="Include" />
+              <e p="ButtonHandler.cs" t="Include" />
+              <e p="CrossPlatformInputManager.cs" t="Include" />
+              <e p="InputAxisScrollbar.cs" t="Include" />
+              <e p="Joystick.cs" t="Include" />
+              <e p="MobileControlRig.cs" t="Include" />
+              <e p="PlatformSpecific" t="Include">
+                <e p="MobileInput.cs" t="Include" />
+                <e p="StandaloneInput.cs" t="Include" />
+              </e>
+              <e p="TiltInput.cs" t="Include" />
+              <e p="TouchPad.cs" t="Include" />
+              <e p="VirtualInput.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="CrossPlatformInput" t="Include">
+              <e p="CrossPlatformInputInitialize.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Prototyping" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="WorldCoordDiffuse.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Utility" t="Include">
+            <e p="ActivateTrigger.cs" t="Include" />
+            <e p="AlphaButtonClickMask.cs" t="Include" />
+            <e p="AutoMobileShaderSwitch.cs" t="Include" />
+            <e p="AutoMoveAndRotate.cs" t="Include" />
+            <e p="CameraRefocus.cs" t="Include" />
+            <e p="CurveControlledBob.cs" t="Include" />
+            <e p="DragRigidbody.cs" t="Include" />
+            <e p="DynamicShadowSettings.cs" t="Include" />
+            <e p="EventSystemChecker.cs" t="Include" />
+            <e p="FollowTarget.cs" t="Include" />
+            <e p="ForcedReset.cs" t="Include" />
+            <e p="FOVKick.cs" t="Include" />
+            <e p="FPSCounter.cs" t="Include" />
+            <e p="LerpControlledBob.cs" t="Include" />
+            <e p="ObjectResetter.cs" t="Include" />
+            <e p="ParticleSystemDestroyer.cs" t="Include" />
+            <e p="PlatformSpecificContent.cs" t="Include" />
+            <e p="SimpleActivatorMenu.cs" t="Include" />
+            <e p="SimpleMouseRotator.cs" t="Include" />
+            <e p="SmoothFollow.cs" t="Include" />
+            <e p="TimedObjectActivator.cs" t="Include" />
+            <e p="TimedObjectDestructor.cs" t="Include" />
+            <e p="WaypointCircuit.cs" t="Include" />
+            <e p="WaypointProgressTracker.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StarterKit-MoveCamAI" t="Include">
+          <e p="Example" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GameController.cs" t="Include" />
+              <e p="SpawnEnemy.cs" t="Include" />
+            </e>
+          </e>
+          <e p="StarterKit" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Animation" t="Include">
+                <e p="CharacterAnimation.cs" t="Include" />
+              </e>
+              <e p="Camera" t="Include">
+                <e p="CameraFirstPerson.cs" t="Include" />
+                <e p="CameraTopDown.cs" t="Include" />
+                <e p="CameraTopDownPan.cs" t="Include" />
+              </e>
+              <e p="Enemy" t="Include">
+                <e p="EnemyAI.cs" t="Include" />
+              </e>
+              <e p="Player" t="Include">
+                <e p="ClickToMove.cs" t="Include" />
+                <e p="DirectionalMove.cs" t="Include" />
+                <e p="FirstPersonMove.cs" t="Include" />
+                <e p="LastPosition.cs" t="Include" />
+                <e p="Tidy.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Webbie" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="HideMe.cs" t="Include" />
+            <e p="HumanAI.cs" t="Include" />
+            <e p="Intro.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="SensorAI.cs" t="Include" />
+            <e p="ShowMe.cs" t="Include" />
+            <e p="SpiderAct.cs" t="Include" />
+            <e p="SpiderAnimations.cs" t="Include" />
+            <e p="SpiderGameManager.cs" t="Include" />
+            <e p="SpiderMovement.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Webbies House of Humans.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -11,10 +11,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Webbie/Scenes/House.unity
     guid: 5f1c59faf3c7edf429945e4adb37d387
-  - enabled: 1
-    path: Assets/Webbie/Scenes/GameOver.unity
-    guid: 9fe391f84bd9724478678abddf8742fa
-  - enabled: 1
-    path: Assets/Webbie/Scenes/GameWin.unity
-    guid: 45609e88ffcfbde4eb65ad7d5692c6de
   m_configObjects: {}

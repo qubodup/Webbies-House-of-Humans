@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89e8c4b9-f15d-4f60-8c36-5b2c3de26381" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Assets_Beds/textures/bed-2.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets_Beds/textures/bed-2.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_long.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_long.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_long_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_long_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_square.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_square.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_square_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/button_square_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai_options.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai_options.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai_options_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_ai_options_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_avoid.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_avoid.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_avoid_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_avoid_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_breadcrumb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_breadcrumb.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_breadcrumbai.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_breadcrumbai.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_follow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_follow.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_follow_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_follow_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_health.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_health.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_health_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_health_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_speed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_speed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_speed_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_speed_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_type.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_type.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_type_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_type_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_vision.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_vision.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_vision_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_vision_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_wander.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_wander.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_wander_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/icon_wander_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_normal_selected.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_normal_selected.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_pressed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_pressed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_pressed_selected.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Ai/GUI/toggle_pressed_selected.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Barrel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Barrel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/BarrelNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/BarrelNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Crate.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Crate.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/CrateNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/CrateNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoEnemy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoEnemy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoEnemyNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoEnemyNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoPlayer.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoPlayer.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoPlayerNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/DemoPlayerNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Grass.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/GrassNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/GrassNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Sewer.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Sewer.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/SewerNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/SewerNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Stones.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/Stones.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/StonesNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BreadcrumbAi/Examples/Demo/Textures/StonesNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flatscreen TV/FlatScreen_NRM.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flatscreen TV/FlatScreen_NRM.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flatscreen TV/FlatScreen_TEX.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flatscreen TV/FlatScreen_TEX.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GUI/SpiderGUI.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GUI/SpiderGUI.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Armchair/Materials/Armchair_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_AO.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_AO.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/1/Materials/Book_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_AO.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_AO.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/2/Materials/Book_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_AO.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_AO.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Books/3/Materials/Book_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_AO.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_AO.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/Materials/Chair_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Chair/PillowChair/Materials/PillowChair_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Flower/Materials/TexturesCom_Flowers0024_1_alphamasked_S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Flower/Materials/TexturesCom_Flowers0024_1_alphamasked_S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Cactus/Materials/Cactus_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Grass/Materials/fern.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Grass/Materials/fern.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_AO.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_AO.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/InteriorPlant/Pot/Materials/Pot_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/1/Materials/picture_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pictures/2/Materials/picture_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/1/Materials/Pillow1_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Pillows/2/Materials/Pillow2_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf/Materials/Shelf_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Shelf1/Materials/Shelf1_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_AlbedoTransparency.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_AlbedoTransparency.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_MetallicSmoothness.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_MetallicSmoothness.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Interior Asset/Source/Table/Materials/Table_DefaultMaterial_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_COLOR.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_COLOR.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Cloth(2K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_COLOR.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_COLOR.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Concrete Wall(4K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_COLOR.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_COLOR.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Lino(2K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K).jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K).jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Painted Wall(2K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_COLOR.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_COLOR.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Stone Tile(4K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_COLOR.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_COLOR.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_NRM.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_NRM.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_OCC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_OCC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_SPEC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nice Materials Pack 2/Textures/Textured Carpet(2K)_SPEC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Round Carpet/Textures/carpet_grayscale.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Round Carpet/Textures/carpet_grayscale.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Round Carpet/Textures/carpet_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Round Carpet/Textures/carpet_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraDefault.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraDefault.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraFPS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraFPS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraPan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraPan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraTop.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/CameraTop.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/GUIMenu.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/GUIMenu.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/Kill.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/Kill.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseLeft.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseLeft.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseMove.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseMove.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MousePan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MousePan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseScroll.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/MouseScroll.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/WASD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/WASD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/fpsWASD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/GUI/fpsWASD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Grid.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Grid.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_back.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_back.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_down.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_down.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_front.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_front.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_left.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_left.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_right.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_right.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_up.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/Skybox/Eerie_up.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/SplashImage.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterKit-MoveCamAI/Example/Textures/SplashImage.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/Metallic.png-small.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/Metallic.png-small.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_Occlusion.png-small.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_Occlusion.png-small.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_S1_Albedo.png-small.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_S1_Albedo.png-small.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_S1_Normal.png-small.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VaseEgyptFree/Textures/vase_A_S1_Normal.png-small.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Scenes/GameOver.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Scenes/GameOver.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Scenes/GameWin.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Scenes/GameWin.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Scripts/Intro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Scripts/Intro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/online.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/online.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/pc.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/pc.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/rounterN.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/rounterN.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/router.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/router.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/routerS.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/routerS.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Webbie/Textures/webflix.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Webbie/Textures/webflix.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_bread_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_bread_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_broom_brush.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_broom_brush.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_broom_brushBottom.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_broom_brushBottom.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_card_03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_cheese_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_cheese_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_childDrawing_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_childDrawing_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_childDrawing_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_childDrawing_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_chuckies_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_chuckies_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_chuckies_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_chuckies_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_condenser.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_condenser.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_cuttingBoard_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_cuttingBoard_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_knife_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_knife_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_schedule_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/dif_schedule_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/hotPlates_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/hotPlates_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/oven_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/oven_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/trashBag.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/kitchen_creation_kit/Textures/trashBag.png.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Webbie/Scripts/Intro.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Webbie/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Webbie/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Webbie/Scripts/Intro.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zweux8dX91pR9tqi9uUI9WElZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89e8c4b9-f15d-4f60-8c36-5b2c3de26381" name="Default Changelist" comment="" />
+      <created>1585754810821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585754810821</updated>
+      <workItem from="1585754815729" duration="1348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1585755571489">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080/0.1120.1920.1040@1920.0.1920.1080" timestamp="1585755571489" />
+  </component>
+</project>
